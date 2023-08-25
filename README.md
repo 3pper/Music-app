@@ -1,3 +1,3 @@
 # Daft punk music app
 
-![banner](/desktop/images/music_app.png)
+![banner](music_app.png)
