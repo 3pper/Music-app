@@ -1,3 +1,3 @@
 # Daft punk music app
 
-![banner](/Users/egor/Desktop/development/Projects/MusicApp/Assets/Music_App.png)
+![banner](https://github.com/3pper/Music_app/blob/main/Assets/Music_App.png?raw=true)
