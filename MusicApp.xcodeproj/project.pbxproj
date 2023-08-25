@@ -50,8 +50,8 @@
 		7424AA292A8E4DE0001EBE6A /* Harder.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = Harder.mp3; path = "Новая папка/Harder.mp3"; sourceTree = "<group>"; };
 		7424AA2A2A8E4DE0001EBE6A /* Faster.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = Faster.mp3; path = "Новая папка/Faster.mp3"; sourceTree = "<group>"; };
 		7424AA2B2A8E4DE0001EBE6A /* Complete.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = Complete.mp3; path = "Новая папка/Complete.mp3"; sourceTree = "<group>"; };
-		7424AA402A8E4E3A001EBE6A /* Makes us.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = "Makes us.mp3"; path = "../../../../../Новая папка/Makes us.mp3"; sourceTree = "<group>"; };
-		7424AA422A8E4E6D001EBE6A /* More than.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = "More than.mp3"; path = "../../../../../Новая папка/More than.mp3"; sourceTree = "<group>"; };
+		7424AA402A8E4E3A001EBE6A /* Makes us.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Makes us.mp3"; sourceTree = "<group>"; };
+		7424AA422A8E4E6D001EBE6A /* More than.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "More than.mp3"; sourceTree = "<group>"; };
 		7424AA462A8E56F1001EBE6A /* Launch Screen.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = "Launch Screen.storyboard"; sourceTree = "<group>"; };
 		74A08EC32A8CFA78007C0513 /* MusicApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MusicApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		74A08EC62A8CFA78007C0513 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
