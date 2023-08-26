@@ -20,5 +20,6 @@ git clone https://github.com/3pper/Music_app.git
 ```
 ## Info 
 
-Try and enjoy my app =)
+Enjoy this app =)
+Last 2 button's play a part of duft punk music
 
