@@ -1,4 +1,5 @@
 ![banner](https://github.com/3pper/Music_app/blob/main/Assets/Music_App.png?raw=true)
+
 ![Static Badge](https://img.shields.io/badge/Music%20App-8A2BE2?style=plastic&logo=github&labelColor=hex)
 # Daft punk music app
 
