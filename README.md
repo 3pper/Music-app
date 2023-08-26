@@ -4,8 +4,10 @@
 
 ## About this app
 
-I saw tik-tok video like this:
+At first, i saw tik-tok video like this:
 
 ![banner](https://github.com/3pper/Music_app/blob/main/Assets/ezgif.com-video-to-gif.gif?raw=true)
 
+After that i'm trying do app that have the same option's
 
+![banner]
