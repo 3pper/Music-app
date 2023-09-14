@@ -9,7 +9,7 @@ At first, i saw tik-tok video like this:
 
 ![banner](https://github.com/3pper/Music_app/blob/main/Assets/ezgif.com-video-to-gif.gif?raw=true)
 
-After that i'm trying do app that have the same option's. This is how it look's like:
+After that i'm trying to do app that have the same option's. This is how it look's like:
 
 ![banner](https://github.com/3pper/Music_app/blob/main/Assets/IMG_1918.PNG?raw=true)
 
